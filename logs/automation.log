@@ -1,0 +1,26 @@
+15:56:38.759 [main] INFO  TestBase.baseClass - closing the browser
+16:03:27.462 [main] INFO  TestCases.TC001_beCognizant - ***** starting TC001_beCognizant *****
+16:03:32.723 [main] INFO  TestCases.TC001_beCognizant - clicked on profile
+16:03:33.735 [main] INFO  TestCases.TC001_beCognizant - verifying name of user
+16:03:34.231 [main] INFO  TestCases.TC001_beCognizant - verifying email of user
+16:03:49.329 [main] INFO  TestCases.TC001_beCognizant - Scrolling the page upto OneCognizant link 
+16:03:54.433 [main] INFO  TestCases.TC001_beCognizant - opening the OneCognizant
+16:04:09.982 [main] INFO  TestCases.TC001_beCognizant - Capturing ScreenShots
+16:04:16.862 [main] INFO  TestCases.TC001_beCognizant - handled the OneCognizant window
+16:04:18.231 [main] INFO  TestCases.TC001_beCognizant - Navigated to OneCognizant
+16:04:19.303 [main] INFO  TestCases.TC001_beCognizant - clicked on search Icon
+16:04:20.991 [main] INFO  TestCases.TC001_beCognizant - input timesheet in search bar
+16:04:31.222 [main] INFO  TestCases.TC001_beCognizant - handled the timesheet window
+16:04:31.226 [main] INFO  TestCases.TC001_beCognizant - Navigated to timesheet
+16:04:38.684 [main] INFO  TestCases.TC001_beCognizant - validating the header
+16:04:39.960 [main] INFO  TestCases.TC001_beCognizant - three weeks of timesheet
+16:04:45.783 [main] INFO  TestCases.TC001_beCognizant - Displayed current week
+16:05:13.594 [main] INFO  TestCases.TC001_beCognizant - displayed  tsStatusApproved
+16:05:22.128 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusOverdue
+16:05:32.711 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusPartiallyApproved
+16:05:43.242 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusPending 
+16:05:53.776 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusSaved
+16:06:04.284 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusSentBackforRevision
+16:06:14.890 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusSubmittedforApproval
+16:06:15.023 [main] INFO  TestCases.TC001_beCognizant - ***** closing the browser *****
+16:06:26.209 [main] INFO  TestBase.baseClass - closing the browser
